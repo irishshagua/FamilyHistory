@@ -1,0 +1,527 @@
+0 HEAD
+1 SOUR GENJ
+2 VERS 6755
+2 NAME GenealogyJ
+2 CORP Nils Meier
+3 ADDR http://genj.sourceforge.net
+1 DEST ANY
+1 DATE 5 JUL 2015
+2 TIME 11:14:33
+1 SUBM @B1@
+1 FILE myFamilyTree.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM Lineage-Linked
+1 CHAR UTF-8
+0 @B1@ SUBM
+1 NAME brian
+0 @I1@ INDI
+1 NAME Ling /Gao/
+1 SEX F
+1 BIRT
+2 DATE 5 NOV 1983
+2 PLAC SiJing, ShangHai, China
+1 FAMC @F1@
+1 FAMS @F4@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:12:49
+0 @I2@ INDI
+1 NAME Chengsan /Wang/
+1 SEX M
+1 BIRT
+2 DATE 7 JUL 1957
+2 PLAC SongJiang, ShangHai, China
+1 FAMC @F2@
+1 FAMS @F1@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:22:07
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:05:08
+0 @I3@ INDI
+1 NAME Min /Gao/
+1 SEX F
+1 BIRT
+2 DATE 15 NOV 1958
+2 PLAC SongJiang, ShangHai, China
+1 FAMC @F3@
+1 FAMS @F1@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:21:55
+0 @I4@ INDI
+1 NAME YongChang /Wang/
+1 SEX M
+1 BIRT
+2 DATE
+2 PLAC
+1 DEAT
+2 DATE 1983
+1 FAMS @F2@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:20:24
+0 @F2@ FAM
+1 HUSB @I4@
+1 WIFE @I5@
+1 CHIL @I2@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:07:18
+0 @I5@ INDI
+1 NAME ShaoYue /Ma/
+1 SEX F
+1 BIRT
+2 DATE
+2 PLAC
+1 DEAT
+2 DATE OCT 2013
+1 FAMS @F2@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:12:07
+0 @I6@ INDI
+1 NAME BaiLiang /Gao/
+1 SEX M
+1 BIRT
+2 DATE 11 JUL 1932
+2 PLAC QiDong, JiangSu, China
+1 FAMC @F6@
+1 FAMS @F3@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:28:08
+0 @F3@ FAM
+1 HUSB @I6@
+1 WIFE @I7@
+1 CHIL @I3@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:08:55
+0 @I7@ INDI
+1 NAME DeQin /Wang/
+1 SEX F
+1 BIRT
+2 DATE 5 DEC 1934
+2 PLAC QiDong, JiangSu, China
+1 FAMS @F3@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:26:50
+0 @I8@ INDI
+1 NAME Brian /Mooney/
+1 SEX M
+1 BIRT
+2 DATE 16 JAN 1985
+2 PLAC Ballyfermot, Dublin 10, Ireland
+1 FAMC @F5@
+1 FAMS @F4@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:18:36
+0 @F4@ FAM
+1 HUSB @I8@
+1 WIFE @I1@
+1 CHIL @I9@
+1 CHIL @I10@
+1 CHIL @I10@
+1 CHIL @I9@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:17:34
+0 @I9@ INDI
+1 NAME James /Mooney/
+1 SEX M
+1 BIRT
+2 DATE 17 APR 2013
+2 PLAC Celbridge, Kildare, Ireland
+1 FAMC @F4@
+1 FAMC @F4@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:17:34
+0 @I10@ INDI
+1 NAME Jennifer /Mooney/
+2 NICK Jenny
+1 SEX F
+1 BIRT
+2 DATE 16 JAN 2011
+2 PLAC Celbridge, Kildare, Ireland
+1 FAMC @F4@
+1 FAMC @F4@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 22:31:39
+0 @I11@ INDI
+1 NAME Brendan /Mooney/
+1 SEX M
+1 BIRT
+2 DATE 17 NOV 1954
+2 PLAC
+1 FAMC @F10@
+1 FAMS @F5@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:39:55
+0 @F5@ FAM
+1 HUSB @I11@
+1 WIFE @I12@
+1 CHIL @I8@
+1 CHIL @I29@
+1 CHIL @I30@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 22:07:28
+0 @I12@ INDI
+1 NAME Esther /Corcoran/
+2 NICK Anne
+1 SEX F
+1 BIRT
+2 DATE 28 MAR 1956
+2 PLAC
+1 FAMC @F7@
+1 FAMS @F5@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:32:01
+0 @I13@ INDI
+1 NAME YunTi /Gao/
+1 SEX M
+1 BIRT
+2 DATE
+2 PLAC
+1 FAMS @F6@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:29:34
+0 @F6@ FAM
+1 HUSB @I13@
+1 WIFE @I14@
+1 CHIL @I6@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:28:08
+0 @I14@ INDI
+1 NAME /Shen/
+1 SEX F
+1 BIRT
+2 DATE
+2 PLAC
+1 FAMS @F6@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:29:59
+0 @I15@ INDI
+1 NAME Martin /Corcoran/
+1 SEX M
+1 BIRT
+2 DATE 17 APR 1915
+2 PLAC Shannon Harbour, Offaly, Ireland
+1 DEAT
+2 DATE 3 OCT 1986
+2 PLAC Grange, Clareen, Birr, Offaly, Ireland
+1 FAMC @F8@
+1 FAMS @F7@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:37:20
+0 @F7@ FAM
+1 HUSB @I15@
+1 WIFE @I16@
+1 CHIL @I12@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:32:01
+0 @I16@ INDI
+1 NAME Dora /Connell/
+1 SEX F
+1 BIRT
+2 DATE 1 MAR 1918
+2 PLAC Shannon Harbour, Offaly, Ireland
+1 DEAT
+2 DATE 21 AUG 1996
+2 PLAC Grange, Clareen, Birr, Offaly, Ireland
+1 FAMC @F9@
+1 FAMS @F7@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:38:18
+0 @I17@ INDI
+1 NAME Willie /Corcoran/
+1 SEX M
+1 BIRT
+2 DATE
+2 PLAC Shannon Harbour, Offaly, Ireland
+1 FAMS @F8@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:37:41
+0 @F8@ FAM
+1 HUSB @I17@
+1 WIFE @I18@
+1 CHIL @I15@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:37:20
+0 @I18@ INDI
+1 NAME Bridgette /Tanner/
+1 SEX F
+1 BIRT
+2 DATE
+2 PLAC
+1 FAMS @F8@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:38:02
+0 @I19@ INDI
+1 NAME Dan /Connell/
+1 SEX M
+1 BIRT
+2 DATE
+2 PLAC
+1 FAMS @F9@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:38:29
+0 @F9@ FAM
+1 HUSB @I19@
+1 WIFE @I20@
+1 CHIL @I16@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:38:18
+0 @I20@ INDI
+1 NAME /Kelly/
+1 SEX F
+1 BIRT
+2 DATE
+2 PLAC
+1 FAMS @F9@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:38:41
+0 @I21@ INDI
+1 NAME Seamus /Mooney/
+1 SEX M
+1 BIRT
+2 DATE 27 NOV 1927
+2 PLAC 8 Loretto Rd, Maryland, Dublin 8, Ireland
+1 DEAT
+2 DATE 21 MAR 1985
+2 PLAC 4 Wellmount Park, Finglas, Dublin, Ireland
+1 FAMC @F11@
+1 FAMS @F10@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:42:55
+0 @F10@ FAM
+1 HUSB @I21@
+1 WIFE @I22@
+1 CHIL @I11@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:39:55
+0 @I22@ INDI
+1 NAME Margaret /Needham/
+2 NICK Peg
+1 SEX F
+1 BIRT
+2 DATE 8 AUG 1925
+2 PLAC Bricins Barracks, Infirmary Rd, Dublin, Ireland
+1 DEAT
+2 DATE 27 OCT 1999
+2 PLAC St Raphaels Manor, Celbridge, Kildare, Ireland
+1 FAMC @F13@
+1 FAMS @F10@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:52:02
+0 @I23@ INDI
+1 NAME Simon /Mooney/
+1 SEX M
+1 BIRT
+2 DATE 8 NOV 1893
+2 PLAC Termonfeckin, Louth, Ireland
+1 DEAT
+2 DATE 18 SEP 1961
+1 NOTE @N1@
+1 NOTE @N1@
+1 NOTE @N1@
+1 FAMC @F12@
+1 FAMS @F11@
+1 CHAN
+2 DATE 5 JUL 2015
+3 TIME 09:34:41
+0 @F11@ FAM
+1 HUSB @I23@
+1 WIFE @I24@
+1 CHIL @I21@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:42:55
+0 @I24@ INDI
+1 NAME Mary /Leonard/
+1 SEX F
+1 BIRT
+2 DATE
+2 PLAC Fairfield (Dolphins Barn), Dublin, Ireland
+1 FAMS @F11@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:45:54
+0 @I25@ INDI
+1 NAME Thomas /Mooney/
+1 SEX M
+1 BIRT
+2 DATE 22 JAN 1866
+2 PLAC Termonfeckin, Louth, Ireland
+1 DEAT
+2 DATE 2 JAN 1900
+2 PLAC Termonfeckin, Louth, Ireland
+1 NOTE @N2@
+1 FAMS @F12@
+1 CHAN
+2 DATE 5 JUL 2015
+3 TIME 09:44:38
+0 @F12@ FAM
+1 HUSB @I25@
+1 WIFE @I26@
+1 CHIL @I23@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:46:40
+0 @I26@ INDI
+1 NAME Mary /Reynolds/
+1 SEX F
+1 BIRT
+2 DATE
+2 PLAC Betastown. Termonfeckin, Louth, Ireland
+1 DEAT
+2 PLAC Termonfeckin, Louth, Ireland
+1 FAMS @F12@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:56:12
+0 @I27@ INDI
+1 NAME Jack /Needham/
+1 SEX M
+1 BIRT
+2 DATE
+2 PLAC Tinahealy, Wicklow, Ireland
+1 FAMS @F13@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:53:35
+0 @F13@ FAM
+1 HUSB @I27@
+1 WIFE @I28@
+1 CHIL @I22@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:52:02
+0 @I28@ INDI
+1 NAME Ann /Johnson/
+1 SEX F
+1 BIRT
+2 DATE
+2 PLAC Dublin, Ireland
+1 FAMS @F13@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 21:52:51
+0 @I29@ INDI
+1 NAME Kevin /Mooney/
+1 SEX M
+1 BIRT
+2 DATE 10 MAY 1987
+2 PLAC Ballyfermot, Dublin 10, Ireland
+1 FAMC @F5@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 22:06:47
+0 @I30@ INDI
+1 NAME Ciara /Mooney/
+1 SEX F
+1 BIRT
+2 DATE 29 MAR 1983
+2 PLAC
+1 FAMC @F5@
+1 CHAN
+2 DATE 4 JUL 2015
+3 TIME 22:07:46
+0 @N1@ NOTE Married to Mary Leonard on 19 November 1922
+1 CONT
+1 CONT http://civilrecords.irishgenealogy.ie/churchrecords/details-civil/20bb496270090
+1 CONT
+1 CONT
+1 CONT Worked for Guinnesses:
+1 CONT
+1 CONT
+1 CONT Name:
+1 CONT Simon Mooney
+1 CONT Date of Birth:
+1 CONT 08/11/1893
+1 CONT Date of Death:
+1 CONT 18/09/1961
+1 CONT Employee ID:
+1 CONT 17070
+1 CONT Date Joined:
+1 CONT 30/06/1920
+1 CONT Age Joined:
+1 CONT 26
+1 CONT Date Left:
+1 CONT Unknown
+1 CONT Department:
+1 CONT Engineers
+1 CONT Occupation:
+1 CONT Scaffolder
+1 CONT Spouse Name:
+1 CONT Mary Mooney
+1 CONT
+1 CONT The Engineers’ Department was one of the largest departments in the St. James’s Gate Brewery. The Engineers’ Department was responsible for all building construction and maintenance as well as mechanical and electrical engineering projects in the Brewery
+1 CONC . The Engineer’s Department supervised the construction of all Brewery buildings and brewing machinery. By the 1960s, there were over 1100 people employed in the Engineers’ Department, including skilled craftsmen such as boilermakers, patternmakers, carpe
+1 CONC nters, painters, scaffolders, bricklayers, plumbers, blacksmiths and coppersmiths as well as professionals such as architects and engineers. 
+1 CONT
+1 CONT http://www.guinness-storehouse.com/en/GenealogySearchDetails.aspx?eid=17070
+1 CHAN
+2 DATE 5 JUL 2015
+3 TIME 09:34:31
+0 @N2@ NOTE Worked at Guinnesses brewery:
+1 CONT
+1 CONT Name:
+1 CONT Thomas Mooney
+1 CONT Date of Birth:
+1 CONT 22/01/1866
+1 CONT Date of Death:
+1 CONT 02/01/1900
+1 CONT Employee ID:
+1 CONT 5990
+1 CONT Date Joined:
+1 CONT 17/12/1891
+1 CONT Age Joined:
+1 CONT 26
+1 CONT Date Left:
+1 CONT Unknown
+1 CONT Department:
+1 CONT Engineers
+1 CONT Occupation:
+1 CONT Scaffolder
+1 CONT Spouse Name:
+1 CONT Mary Mooney
+1 CONT
+1 CONT
+1 CONT The Engineers’ Department was one of the largest departments in the St. James’s Gate Brewery. The Engineers’ Department was responsible for all building construction and maintenance as well as mechanical and electrical engineering projects in the Brewery
+1 CONC . The Engineer’s Department supervised the construction of all Brewery buildings and brewing machinery. By the 1960s, there were over 1100 people employed in the Engineers’ Department, including skilled craftsmen such as boilermakers, patternmakers, carpe
+1 CONC nters, painters, scaffolders, bricklayers, plumbers, blacksmiths and coppersmiths as well as professionals such as architects and engineers. 
+1 CONT
+1 CONT http://www.guinness-storehouse.com/en/GenealogySearchDetails.aspx?eid=5990
+1 CHAN
+2 DATE 5 JUL 2015
+3 TIME 09:44:38
+0 TRLR
