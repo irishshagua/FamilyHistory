@@ -5,8 +5,8 @@
 2 CORP Nils Meier
 3 ADDR http://genj.sourceforge.net
 1 DEST ANY
-1 DATE 7 JUL 2015
-2 TIME 23:35:33
+1 DATE 22 JUL 2015
+2 TIME 20:42:35
 1 SUBM @B1@
 1 FILE myFamilyTree.ged
 1 GEDC
@@ -29,6 +29,7 @@
 3 TIME 14:32:32
 0 @I2@ INDI
 1 NAME Chengsan /Wang/
+2 NICK
 1 SEX M
 1 BIRT
 2 DATE 7 JUL 1957
@@ -36,8 +37,8 @@
 1 FAMC @F2@
 1 FAMS @F1@
 1 CHAN
-2 DATE 4 JUL 2015
-3 TIME 21:22:07
+2 DATE 22 JUL 2015
+3 TIME 19:34:36
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -60,15 +61,16 @@
 1 NAME YongChang /Wang/
 1 SEX M
 1 BIRT
-2 DATE
-2 PLAC
+2 DATE 1928
+2 PLAC LianShui, JiangSu, China
 1 DEAT
-2 DATE 1983
+2 DATE 26 JAN 1982
+2 PLAC SongJiang, ShangHai, China
 1 FAMC @F15@
 1 FAMS @F2@
 1 CHAN
-2 DATE 5 JUL 2015
-3 TIME 18:08:10
+2 DATE 22 JUL 2015
+3 TIME 19:24:45
 0 @F2@ FAM
 1 HUSB @I4@
 1 WIFE @I5@
@@ -78,27 +80,32 @@
 3 TIME 21:07:18
 0 @I5@ INDI
 1 NAME ShaoYue /Ma/
+2 NICK Granny Grumps
 1 SEX F
 1 BIRT
-2 DATE
+2 DATE 6 MAR 1923
 2 PLAC
 1 DEAT
-2 DATE OCT 2013
+2 DATE 23 OCT 2013
+1 FAMC @F17@
 1 FAMS @F2@
+1 OBJE @M9@
 1 CHAN
-2 DATE 4 JUL 2015
-3 TIME 21:12:07
+2 DATE 22 JUL 2015
+3 TIME 19:39:38
 0 @I6@ INDI
 1 NAME BaiLiang /Gao/
+2 NICK GrandDad Quiet
 1 SEX M
 1 BIRT
 2 DATE 11 JUL 1932
 2 PLAC QiDong, JiangSu, China
 1 FAMC @F6@
 1 FAMS @F3@
+1 OBJE @M11@
 1 CHAN
-2 DATE 4 JUL 2015
-3 TIME 21:28:08
+2 DATE 22 JUL 2015
+3 TIME 19:40:21
 0 @F3@ FAM
 1 HUSB @I6@
 1 WIFE @I7@
@@ -108,15 +115,17 @@
 3 TIME 21:08:55
 0 @I7@ INDI
 1 NAME DeQin /Wang/
+2 NICK Granny HaHa
 1 SEX F
 1 BIRT
 2 DATE 5 DEC 1934
 2 PLAC QiDong, JiangSu, China
 1 FAMC @F14@
 1 FAMS @F3@
+1 OBJE @M10@
 1 CHAN
-2 DATE 5 JUL 2015
-3 TIME 18:04:23
+2 DATE 22 JUL 2015
+3 TIME 19:40:08
 0 @I8@ INDI
 1 NAME Brian /Mooney/
 1 SEX M
@@ -270,12 +279,12 @@
 1 NAME Willie /Corcoran/
 1 SEX M
 1 BIRT
-2 DATE
+2 DATE 1873
 2 PLAC Shannon Harbour, Offaly, Ireland
 1 FAMS @F8@
 1 CHAN
-2 DATE 4 JUL 2015
-3 TIME 21:37:41
+2 DATE 8 JUL 2015
+3 TIME 22:23:49
 0 @F8@ FAM
 1 HUSB @I17@
 1 WIFE @I18@
@@ -370,8 +379,8 @@
 1 FAMC @F12@
 1 FAMS @F11@
 1 CHAN
-2 DATE 5 JUL 2015
-3 TIME 14:06:54
+2 DATE 8 JUL 2015
+3 TIME 20:29:45
 0 @F11@ FAM
 1 HUSB @I23@
 1 WIFE @I24@
@@ -401,8 +410,8 @@
 1 NOTE @N2@
 1 FAMS @F12@
 1 CHAN
-2 DATE 5 JUL 2015
-3 TIME 09:44:38
+2 DATE 8 JUL 2015
+3 TIME 20:29:57
 0 @F12@ FAM
 1 HUSB @I25@
 1 WIFE @I26@
@@ -414,14 +423,15 @@
 1 NAME Mary /Reynolds/
 1 SEX F
 1 BIRT
-2 DATE
+2 DATE 1869
 2 PLAC Betastown. Termonfeckin, Louth, Ireland
 1 DEAT
+2 DATE 1962
 2 PLAC Termonfeckin, Louth, Ireland
 1 FAMS @F12@
 1 CHAN
-2 DATE 4 JUL 2015
-3 TIME 21:56:12
+2 DATE 8 JUL 2015
+3 TIME 21:55:43
 0 @I27@ INDI
 1 NAME John /Needham/
 1 SEX M
@@ -510,9 +520,13 @@
 1 CONC nters, painters, scaffolders, bricklayers, plumbers, blacksmiths and coppersmiths as well as professionals such as architects and engineers. 
 1 CONT
 1 CONT http://www.guinness-storehouse.com/en/GenealogySearchDetails.aspx?eid=17070
+1 CONT
+1 CONT Served in the Brittish Royal Navy
+1 CONT
+1 CONT http://discovery.nationalarchives.gov.uk/details/r/D6987292#imageViewerLink
 1 CHAN
-2 DATE 5 JUL 2015
-3 TIME 14:06:54
+2 DATE 8 JUL 2015
+3 TIME 20:29:45
 0 @N2@ NOTE Worked at Guinnesses brewery:
 1 CONT
 1 CONT Name:
@@ -543,8 +557,8 @@
 1 CONT
 1 CONT http://www.guinness-storehouse.com/en/GenealogySearchDetails.aspx?eid=5990
 1 CHAN
-2 DATE 5 JUL 2015
-3 TIME 09:44:38
+2 DATE 8 JUL 2015
+3 TIME 20:29:57
 0 @M1@ OBJE
 1 FILE /home/brian/Pictures/project/FamilyTree/BrianMooney.jpg
 2 FORM jpg
@@ -690,4 +704,58 @@
 1 CHAN
 2 DATE 7 JUL 2015
 3 TIME 22:28:15
+0 @I36@ INDI
+1 NAME ShuWen /Ma/
+1 SEX M
+1 BIRT
+2 DATE
+2 PLAC
+1 DEAT
+2 DATE 28 MAY 1986
+2 PLAC ShangHai, China
+1 FAMS @F17@
+1 CHAN
+2 DATE 22 JUL 2015
+3 TIME 19:26:18
+0 @F17@ FAM
+1 HUSB @I36@
+1 WIFE @I37@
+1 CHIL @I5@
+1 CHAN
+2 DATE 22 JUL 2015
+3 TIME 19:27:44
+0 @I37@ INDI
+1 NAME /Xu/
+1 SEX F
+1 BIRT
+2 DATE
+2 PLAC
+1 DEAT
+2 DATE 25 DEC 1981
+2 PLAC ShangHai, China
+1 FAMS @F17@
+1 CHAN
+2 DATE 22 JUL 2015
+3 TIME 19:29:31
+0 @M9@ OBJE
+1 FILE /home/brian/Pictures/project/FamilyTree/GrannyGrumpsHead.jpg
+2 FORM jpg
+2 TITL
+1 CHAN
+2 DATE 22 JUL 2015
+3 TIME 19:39:38
+0 @M10@ OBJE
+1 FILE /home/brian/Pictures/project/FamilyTree/GrannyHahaHead.png
+2 FORM png
+2 TITL
+1 CHAN
+2 DATE 22 JUL 2015
+3 TIME 19:40:08
+0 @M11@ OBJE
+1 FILE /home/brian/Pictures/project/FamilyTree/GranDaQuietHead.jpg
+2 FORM jpg
+2 TITL
+1 CHAN
+2 DATE 22 JUL 2015
+3 TIME 19:40:21
 0 TRLR
