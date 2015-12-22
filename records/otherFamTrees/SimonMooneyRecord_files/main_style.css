@@ -1,0 +1,46 @@
+ body {margin:0; background-image:url(theme/bg.jpg?408955); font-family:Verdana, Arial, Helvetica, sans-serif; color:#333333;}
+ #page {background-color:#FFFFFF; width:600px; border-top: 8px #FF9900 solid; border-bottom: 3px #FF9900 solid; margin: 0 auto; display:table; padding-bottom:5px;}
+ #header {width:600px;}
+ #logo {float:left; width: 190px; border-right: 1px #cccccc solid; padding-bottom: 12px; background-color:#eeeeee}
+ #logo h1 {font-size:15px; font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; padding:5px 0 0 10px; margin:0}
+ #logo .tagline {font-size:10px; padding-left: 8px; margin-top:-5px}
+ #topnav {float:right; padding-bottom: 5px; width:400px;}
+ #topnav .menu {float:left; border-bottom: 3px #cccccc solid; margin-right: 10px;}
+ #topnav .menu_item {padding-top:7px; font-size:15px;}
+ #topnav .menu_item a{color:#333333; text-decoration:none;}
+ #topnav .menu_item a:hover{color:#FF9900;}
+ #active a:link { border-bottom: 3px #cccccc solid; text-decoration:none; color:#FF9900; }
+ #active a:hover { border-bottom: 3px #cccccc solid; text-decoration:none; color:#FF9900; }
+ #active a:visited { border-bottom: 3px #cccccc solid; text-decoration:none; color:#FF9900; }
+ #topnav .here{color:#FF9900; text-transform:uppercase; padding-top:5px; font-size:18px;}
+ #topnav .menu_desc {font-size:10px;}
+ #body {padding: 0 0 0 10px; min-height:400px;height:auto !important;height:400px;clear:both}
+ #body .post {width: 580px; margin:10px 0; padding:0; display:table}
+ #body .post h2 {margin:0; padding-bottom: 5px; color:#FF9900; letter-spacing:-1px; font-size:18px; font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;}
+ #body .post div.paragraph {font-size:11px; margin:0; padding-bottom: 15px;}
+ #body .post p {font-size:11px; margin:0; padding-bottom: 15px;}
+ #body .post a{color:#0099FF; text-decoration:none}
+ #sidebar {float:right; margin:0; width: 170px;}
+ #sidebar .sidebar_head {background-color:#FF9900; margin-top:4px; padding:4px}
+ #sidebar h3{margin:0; color:#FFFFFF; font-size:14px; font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; font-weight:bolder;}
+ #sidebar ul {margin:5px 0; padding:0 0 0 20px;}
+ #sidebar ul li{list-style-image:url(theme/0066_double_arrow.png?408955); font-size:11px}
+ #sidebar ul li a{text-decoration:none; color:#333333}
+ #footer {text-align:center}
+ #footer div.paragraph {color:#FFFFFF; font-size:10px;}
+ #footer p {color:#FFFFFF; font-size:10px;}
+ #footer div.paragraph a{color:#FFFFFF; text-decoration:none}
+ #footer p a{color:#FFFFFF; text-decoration:none}
+ #footer div.paragraph a:hover{color:#FFFFFF; text-decoration:underline}
+ #footer p a:hover{color:#FFFFFF; text-decoration:underline}
+ .folio_img {margin: 10px 0; text-align:center; width: 100%; background-color:#eeeeee; padding: 10px; border: 1px #cccccc dashed}
+ .folio_img img {border: 1px #cccccc solid; padding:4px; background-color:#eeeeee; margin: 10px 10px 0 0}
+ .style1 {color: #FF9900}
+ #headerimage { width: 600px; height: 214px; background: #ffffff url(theme/cust_headerImg.jpg?408955) top left no-repeat; clear: both; }
+ #content .blog-post .blog-header h2.blog-title #content .blog-post .blog-header h2.blog-title a { color: #333; }
+
+div.paragraph ul, div.paragraph ol { padding-left: 2.3em !important; margin: 5px 0 !important; overflow:hidden; }
+div.paragraph li { padding-left: 5px !important; margin: 3px 0 0 !important; }
+div.paragraph ul, div.paragraph ul li { list-style: disc outside !important; }
+div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; }
+blockquote { margin: 10px 0; padding-left: 20px; border-left: 4px solid #ddd; font-style: italic; line-height: 170%; }
