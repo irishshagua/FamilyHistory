@@ -1,2 +1,5 @@
 # Hide tmp files
 *~
+
+# Hide Stupid MAC shite
+.DS_Store
