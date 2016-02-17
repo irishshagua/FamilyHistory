@@ -5,8 +5,8 @@
 2 CORP Nils Meier
 3 ADDR http://genj.sourceforge.net
 1 DEST ANY
-1 DATE 30 DEC 2015
-2 TIME 15:49:03
+1 DATE 17 FEB 2016
+2 TIME 23:08:28
 1 SUBM @B1@
 1 FILE myFamilyTree.ged
 1 GEDC
@@ -672,10 +672,12 @@
 3 TIME 18:08:45
 0 @F15@ FAM
 1 HUSB @I33@
+1 WIFE @I109@
 1 CHIL @I4@
+1 CHIL @I108@
 1 CHAN
-2 DATE 5 JUL 2015
-3 TIME 18:10:10
+2 DATE 17 FEB 2016
+3 TIME 22:56:29
 0 @N3@ NOTE http://www.census.nationalarchives.ie/pages/1911/Dublin/Fitzwilliam/Charlemont_Street/73087/
 1 CONT http://www.census.nationalarchives.ie/pages/1901/Dublin/Fitzwilliam/Albert_Place_West/1305511/
 1 CONT http://churchrecords.irishgenealogy.ie/churchrecords/details/3cc0e60018186
@@ -1978,4 +1980,33 @@
 1 CHAN
 2 DATE 30 DEC 2015
 3 TIME 15:13:30
+0 @I108@ INDI
+1 NAME Lin /Wang/
+2 NICK Army YeYe
+1 SEX M
+1 BIRT
+2 DATE 1 JUN 1930
+2 PLAC
+1 FAMC @F15@
+1 OBJE @M45@
+1 CHAN
+2 DATE 17 FEB 2016
+3 TIME 23:02:15
+0 @I109@ INDI
+1 NAME Shen /Wang/
+1 SEX F
+1 BIRT
+2 DATE
+2 PLAC
+1 FAMS @F15@
+1 CHAN
+2 DATE 17 FEB 2016
+3 TIME 22:56:52
+0 @M45@ OBJE
+1 FILE images/ArmyYeye.jpg
+2 FORM jpg
+2 TITL
+1 CHAN
+2 DATE 17 FEB 2016
+3 TIME 23:02:15
 0 TRLR
